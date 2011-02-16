@@ -1,0 +1,5 @@
+This is the source for the entire SoSoRadio system.
+
+This system runs live at http://radio.benfields.net (most of the time, excuse the heavy downtime)
+
+It is thoroughly documented at a logical level in Chapter 4 of my submitted (but not as of yet accepted) Phd thesis.  For now suffice to say that the backend bits are in /core and the front-end bits are in /www  
